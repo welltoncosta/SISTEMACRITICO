@@ -1,0 +1,4 @@
+1000040000 2069 db32 {"bpp":8,"width":64,"height":32,"type":"bitmap","opaque":false}
+1000060000 87 game.lua {"type":"lua_code"}
+1000090000 308 main.lua {"type":"lua_code"}
+1000090001 2104 palette.lua {"type":"lua_code"}
